@@ -7,5 +7,5 @@ mobile
 
 site
 
-<img src="./demo/site/inicio.jpg" width="600" />
-<img src="./demo/site/pagamento.jpg" width="600" />
+<img src="./demo/site/inicio.png" width="600" />
+<img src="./demo/site/pagamento.png" width="600" />
